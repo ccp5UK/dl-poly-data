@@ -1,4 +1,5 @@
 latest - [![DOI][doi-badge]][doi-link]
+
 5.1.0 - [![DOI][doi-badge]][doi-510]
 
 [doi-link]: https://zenodo.org/badge/latestdoi/596539789
