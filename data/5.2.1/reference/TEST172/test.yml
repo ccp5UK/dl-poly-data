@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "172"
-  title: "EVB simulation of a single reactive Malonaldehyde in gas phase"
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "116"
-  title: "Formic Acid (970 molecules)-Test for angle potentials of quartic (quartic) order"
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

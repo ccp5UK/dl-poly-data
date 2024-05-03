@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "025"
-  title: "FeCr WITH TABULATED EAM POTENTIAL"
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

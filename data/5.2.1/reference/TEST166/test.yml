@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "166"
-  title: "SWIFT HEAVY ION IRRADIATION OF SILICON WITH TERSOFF T3 POTENTIAL"
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

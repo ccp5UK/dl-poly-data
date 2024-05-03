@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "099"
-  title: "Formic Acid (970 molecules)-Test for bond potentials of (lj)+vdW+coul (-lj) type"
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

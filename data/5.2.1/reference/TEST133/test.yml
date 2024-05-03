@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "133"
-  title: "Formic Acid (970 molecules)-Test for angle potentials of Compass stretch-stretch +coul+vdW (-sts) type"
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

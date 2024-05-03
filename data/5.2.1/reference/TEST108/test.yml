@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "108"
-  title: "Formic Acid (970 molecules)-Test for bond potentials of fene type"
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "005"
-  title: "SiC with Tersoff Potential (74088 ATOMS)"
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

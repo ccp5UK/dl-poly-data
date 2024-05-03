@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "022"
-  title: "dmimcl rigid"
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

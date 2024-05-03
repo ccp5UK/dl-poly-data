@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "165"
-  title: "Slab of Hf-O-Pt-Zr in vacuum - Test for an oscillatory external electric field of w=0.001 ps^-1"
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "142"
-  title: "Formic Acid (970 molecules)-Test for dihedrals potentials of harmonic (harm) type"
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

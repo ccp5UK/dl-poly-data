@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "103"
-  title: "Formic Acid (970 molecules)-Test for bond potentials of quar+vdW+coul (-qur) type"
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

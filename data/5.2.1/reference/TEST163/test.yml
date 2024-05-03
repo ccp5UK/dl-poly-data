@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "163"
-  title: "Slab of Hf-O-Pt-Zr in vacuum - Test for external electric field, now in units of V/A "
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

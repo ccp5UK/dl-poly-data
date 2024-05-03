@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "018"
-  title: "SPC IceVII Minimisation"
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

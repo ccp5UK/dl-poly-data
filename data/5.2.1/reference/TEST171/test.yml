@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "171"
-  title: "DL_POLY: ar"
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

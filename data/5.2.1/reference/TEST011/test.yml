@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "011"
-  title: "Cu3Au ALLOY (32000 ATOMS)"
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

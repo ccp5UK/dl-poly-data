@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "138"
-  title: "Formic Acid (970 molecules)-Test for angle potentials of mmbd type"
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "107"
-  title: "Formic Acid (970 molecules)-Test for bond potentials of Electroctatic+vdW+coul (-cul) type"
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

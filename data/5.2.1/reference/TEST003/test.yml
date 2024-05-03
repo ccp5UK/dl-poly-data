@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "003"
-  title: "SODIUM/POTASSIUM DISILICATE GLASS WITH 3 BODY FORCES (69120 IONS)"
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

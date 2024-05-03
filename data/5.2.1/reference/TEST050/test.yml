@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "050"
-  title: "POPC membrane in contact with water (32107 IONS)"
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

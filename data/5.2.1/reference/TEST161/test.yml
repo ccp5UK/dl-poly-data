@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "161"
-  title: "Chain polymer with   6 units and Carboxy Head Group-Test for tether potentials of restained harmonic (rhrm) type                        "
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

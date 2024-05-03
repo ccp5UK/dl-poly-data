@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "159"
-  title: "Silicalite: Sauer model sans shell + Benzene-Test for three-body potentials of H-bond (hbnd) type                        "
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "160"
-  title: "Chain polymer with   6 units and Carboxy Head Group-Test for tether potentials of harmonic (harm) type                        "
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

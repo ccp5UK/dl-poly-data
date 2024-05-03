@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "026"
-  title: "Butane"
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

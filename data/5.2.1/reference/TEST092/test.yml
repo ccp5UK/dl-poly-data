@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "092"
-  title: "Formic Acid (970 molecules)-Test for bond potentials of harmonic (harm) type"
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

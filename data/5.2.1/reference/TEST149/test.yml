@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "149"
-  title: "DPPC (200 molecules) in Water (32626 molecules) Lipid Bilayer -Test for harmonic potentials for inversions "
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

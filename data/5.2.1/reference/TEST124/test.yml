@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "124"
-  title: "Formic Acid (970 molecules)-Test for angle potentials of Truncated Vessal (bvs2) type "
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

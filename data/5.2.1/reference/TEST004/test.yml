@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "004"
-  title: "8xGRAMICIDIN A WITH WATER SOLVATING (99120 ATOMS)"
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

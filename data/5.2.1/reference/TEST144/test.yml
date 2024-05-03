@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "144"
-  title: "Formic Acid (970 molecules)-Test for dihedrals of harmonic cosine (cos3) type"
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-

@@ -1,8 +1,0 @@
-# %YAML 1.2
-test:
-  name: "021"
-  title: "TIP4P WATER"
-  type: "regression"              
-  tolerances: 
-      default: 0.0001
-
