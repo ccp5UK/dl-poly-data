@@ -1,0 +1,31 @@
+# %YAML 1.2
+test:
+  name: "006"
+  title: "Cu3Au ALLOY (32000 ATOMS)
+
+io_file_config CONFIG
+io_file_field FIELD
+io_file_statis STATIS
+io_file_revive REVIVE
+io_file_revcon REVCON
+temperature  300.0 K
+coul_method OFF
+print_frequency  2.0 steps
+stats_frequency  2.0 steps
+cutoff  8.2 ang
+ensemble nvt
+ensemble_method hoover
+ensemble_thermostat_coupling  0.2 ps
+time_run  20.0 steps
+time_equilibration  10.0 steps
+data_dump_frequency  500 steps
+time_job  1000.0 s
+time_close  10.0 s
+timestep  0.001 ps
+pressure_hydrostatic  0.001 katm
+restart rescale
+rescale_frequency  7.0 steps"
+  type: "regression"              
+  tolerances: 
+      default: 0.0001
+

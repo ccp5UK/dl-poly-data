@@ -1,0 +1,8 @@
+# %YAML 1.2
+test:
+  name: "164"
+  title: "Ficticious gas of Potassium Chloride - Test for external magnetic field"
+  type: "regression"              
+  tolerances: 
+      default: 0.0001
+

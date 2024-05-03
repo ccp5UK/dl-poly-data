@@ -1,0 +1,8 @@
+# %YAML 1.2
+test:
+  name: "152"
+  title: "DPPC (200 molecules) in Water (32626 molecules) Lipid Bilayer -Test for inversions potentials of xpln type"
+  type: "regression"              
+  tolerances: 
+      default: 0.0001
+

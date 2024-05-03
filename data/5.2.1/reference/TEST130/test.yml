@@ -1,0 +1,8 @@
+# %YAML 1.2
+test:
+  name: "130"
+  title: "Formic Acid (970 molecules)-Test for angle potentials of MM3 stretch-bend (mmsb) type "
+  type: "regression"              
+  tolerances: 
+      default: 0.0001
+

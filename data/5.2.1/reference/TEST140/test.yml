@@ -1,0 +1,8 @@
+# %YAML 1.2
+test:
+  name: "140"
+  title: "Formic Acid (970 molecules)-Test for tabulated potentials for dihedrals"
+  type: "regression"              
+  tolerances: 
+      default: 0.0001
+

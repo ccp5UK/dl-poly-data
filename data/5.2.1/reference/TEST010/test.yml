@@ -1,0 +1,8 @@
+# %YAML 1.2
+test:
+  name: "010"
+  title: "Potential of mean force on K+ in water"
+  type: "regression"              
+  tolerances: 
+      default: 0.0001
+

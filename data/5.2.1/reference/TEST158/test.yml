@@ -1,0 +1,8 @@
+# %YAML 1.2
+test:
+  name: "158"
+  title: "Silicalite: Sauer model sans shell + Benzene-Test for three-body potentials of truncated vessal (bvs2) type                        "
+  type: "regression"              
+  tolerances: 
+      default: 0.0001
+

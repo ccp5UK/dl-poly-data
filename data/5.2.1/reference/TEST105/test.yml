@@ -1,0 +1,8 @@
+# %YAML 1.2
+test:
+  name: "105"
+  title: "Formic Acid (970 molecules)-Test for bond potentials of Buckingham+vdW+coul (-bck) type"
+  type: "regression"              
+  tolerances: 
+      default: 0.0001
+

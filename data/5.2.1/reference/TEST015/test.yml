@@ -1,0 +1,8 @@
+# %YAML 1.2
+test:
+  name: "015"
+  title: "ALUMINIUM/NICKEL ALLOY WITH TABULATED EAM POTENTIAL"
+  type: "regression"              
+  tolerances: 
+      default: 0.0001
+

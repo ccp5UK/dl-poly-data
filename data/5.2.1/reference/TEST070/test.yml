@@ -1,0 +1,8 @@
+# %YAML 1.2
+test:
+  name: "070"
+  title: "SODIUM CHLORIDE WITH (27000 IONS)"
+  type: "regression"              
+  tolerances: 
+      default: 0.0001
+

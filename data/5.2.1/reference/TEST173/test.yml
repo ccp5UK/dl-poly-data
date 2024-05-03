@@ -1,0 +1,8 @@
+# %YAML 1.2
+test:
+  name: "173"
+  title: "EVB simulation of reactive Malonaldehyde in non-reactive water (599 water molecules)"
+  type: "regression"              
+  tolerances: 
+      default: 0.0001
+

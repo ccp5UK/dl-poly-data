@@ -1,0 +1,8 @@
+# %YAML 1.2
+test:
+  name: "115"
+  title: "Formic Acid (970 molecules)-Test for angle potentials of harmonic+coul+vdW (-hrm) type"
+  type: "regression"              
+  tolerances: 
+      default: 0.0001
+

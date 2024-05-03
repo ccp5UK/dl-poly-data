@@ -1,0 +1,8 @@
+# %YAML 1.2
+test:
+  name: "020"
+  title: "SODIUM CHLORIDE MOLECULES IN SPC WATER(CB+RB)"
+  type: "regression"              
+  tolerances: 
+      default: 0.0001
+

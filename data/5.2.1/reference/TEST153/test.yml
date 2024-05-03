@@ -1,0 +1,8 @@
+# %YAML 1.2
+test:
+  name: "153"
+  title: "Calcite bulk (4320 atoms) -Test for calcite potential"
+  type: "regression"              
+  tolerances: 
+      default: 0.0001
+

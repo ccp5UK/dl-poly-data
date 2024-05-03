@@ -1,0 +1,8 @@
+# %YAML 1.2
+test:
+  name: "110"
+  title: "Formic Acid (970 molecules)-Test for bond potentials of mmts type"
+  type: "regression"              
+  tolerances: 
+      default: 0.0001
+

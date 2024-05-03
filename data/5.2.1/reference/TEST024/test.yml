@@ -1,0 +1,8 @@
+# %YAML 1.2
+test:
+  name: "024"
+  title: "IRON/CARBON ALLOY WITH TABULATED EEAM POTENTIAL"
+  type: "regression"              
+  tolerances: 
+      default: 0.0001
+

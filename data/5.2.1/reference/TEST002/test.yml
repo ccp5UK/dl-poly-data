@@ -1,0 +1,8 @@
+# %YAML 1.2
+test:
+  name: "002"
+  title: "DMPC in WATER (51737 ATOMS)"
+  type: "regression"              
+  tolerances: 
+      default: 0.0001
+
