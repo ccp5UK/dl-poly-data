@@ -195,3 +195,4 @@ TEST177 -  Argon System, stress autocorrelation
 TEST178 -  Argon System, heat_flux autocorrelation
 TEST179 -  Argon System, mean square displacement
 TEST180 -  Argon System, radial distribution function
+TEST181 -  LiF System, currents calculation
