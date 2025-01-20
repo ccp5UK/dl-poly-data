@@ -196,6 +196,5 @@ TEST178 -  Argon System, heat_flux autocorrelation
 TEST179 -  Argon System, mean square displacement
 TEST180 -  Argon System, radial distribution function
 TEST181 -  LiF System, currents calculation
-TEST182 -  mDPD Vapour-Liquid Example (2000 Water Beads)
-TEST183 -  VapourLiquid mDPD Example 
-TEST184 -  AlkylSuphate DPD example with charge smearing
+TEST182 -  many-body DPD liquid density contrast - Test for mDPD potentials 
+TEST183 -  AlkylSuphate DPD test for Slater type charge smearing
