@@ -190,7 +190,7 @@ TEST172 -  EVB simulation of a single reactive Malonaldehyde in gas phase
 TEST173 -  EVB simulation of reactive Malonaldehyde in non-reactive water (599 water molecules)
 TEST174 -  EVB simulation of reactive Malonaldehyde in non-reactive water (599 water molecules)
 TEST175 -  EVB simulation of reactive Malonaldehyde in non-reactive water (599 water molecules)
-TEST176 -  Argon System, velocity autocorrelation
+TEST176 -  LiF System, velocity autocorrelation with revive
 TEST177 -  Argon System, stress autocorrelation
 TEST178 -  Argon System, heat_flux autocorrelation
 TEST179 -  Argon System, mean square displacement
