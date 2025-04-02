@@ -1,9 +1,9 @@
-Standard Test Cases for DL_POLY_4
+Standard Test Cases for DL_POLY_5
 ----------------------------------
 
-Because of the size of the data files for the DL_POLY_4
+Because of the size of the data files for the DL_POLY_5
 standard test cases, they are not shipped in the standard
-download of the DL_POLY_4 source. Test files are downloaded
+download of the DL_POLY_5 source. Test files are downloaded
 automatically when building/ running CMake with the CMake variable BUILD_TESTING=ON.
 This can be done as follows:
 
