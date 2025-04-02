@@ -15,6 +15,11 @@ Unpack the files in the `data' subdirectory using firstly
 `gunzip' to uncompress them and then `tar -xf' to create the
 `TEST_X' directory.
 
+Version controlled test cases may be downloaded from the ccp5UK 
+Github: https://github.com/ccp5UK/dl-poly-data
+
+The following is a list of DL_POLY_5 test cases currently used:
+
 TEST001 -  Sodium Chloride (27,000 ions) interacting via Born-Huggins-Meyer potentials
 TEST002 -  DMPC in Water (51,737 atoms)
 TEST003 -  KNaSi2O5 - Potassium/Sodium Disilicate Glass (69,120 ions)
